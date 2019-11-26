@@ -1,4 +1,0 @@
-print("Hello")
-a = (int(input("Enter your User: ")))
-b = (int(input("Enter your Password")))
-print (a, b)
